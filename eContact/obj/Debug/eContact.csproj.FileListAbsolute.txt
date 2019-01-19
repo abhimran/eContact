@@ -1,0 +1,11 @@
+C:\Users\imuka\source\repos\eContact\eContact\bin\Debug\eContact.exe.config
+C:\Users\imuka\source\repos\eContact\eContact\bin\Debug\eContact.exe
+C:\Users\imuka\source\repos\eContact\eContact\bin\Debug\eContact.pdb
+C:\Users\imuka\source\repos\eContact\eContact\obj\Debug\eContact.csprojAssemblyReference.cache
+C:\Users\imuka\source\repos\eContact\eContact\obj\Debug\eContact.Form1.resources
+C:\Users\imuka\source\repos\eContact\eContact\obj\Debug\eContact.Main.resources
+C:\Users\imuka\source\repos\eContact\eContact\obj\Debug\eContact.Properties.Resources.resources
+C:\Users\imuka\source\repos\eContact\eContact\obj\Debug\eContact.csproj.GenerateResource.cache
+C:\Users\imuka\source\repos\eContact\eContact\obj\Debug\eContact.csproj.CoreCompileInputs.cache
+C:\Users\imuka\source\repos\eContact\eContact\obj\Debug\eContact.exe
+C:\Users\imuka\source\repos\eContact\eContact\obj\Debug\eContact.pdb
